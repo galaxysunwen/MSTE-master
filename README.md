@@ -1,5 +1,5 @@
 # Effective Knowledge Graph Embeddings based onMultidirectional Sementics Relations forPolypharmacy Side Effects Prediction
-This is the code of paper **Effective Knowledge Graph Embeddings based onMultidirectional Sementics Relations forPolypharmacy Side Effects Prediction.** *Junfeng Yao, Wen Sun, Xiaoli Wang, Qingqiang Wu.*
+This is the code of paper **Effective Knowledge Graph Embeddings based on Multidirectional Sementics Relations for Polypharmacy Side Effects Prediction.** *Junfeng Yao, Wen Sun, Xiaoli Wang, Qingqiang Wu.*
 
 ## Dependencies
 - Python 3.6+
