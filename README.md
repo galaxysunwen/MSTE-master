@@ -1,5 +1,5 @@
 # Effective Knowledge Graph Embeddings based on Multidirectional Sementics Relations for Polypharmacy Side Effects Prediction
-This is the code of paper **Effective Knowledge Graph Embeddings based on Multidirectional Sementics Relations for Polypharmacy Side Effects Prediction.** *Junfeng Yao, Wen Sun, Xiaoli Wang, Qingqiang Wu.*
+This is the code of paper **Effective Knowledge Graph Embeddings based on Multidirectional Sementics Relations for Polypharmacy Side Effects Prediction.** *Junfeng Yao, Wen Sun, , Zhongquan Jian, Xiaoli Wang, Qingqiang Wu.*
 
 ## Dependencies
 - Python 3.6+
@@ -16,7 +16,7 @@ The results of **MSTE** on **TWOSIDES** and **DrugBank** are as follows.
 
 
 ### DrugBank
-| | ROC-AUC |  PR-AUC | AP@50 |
+| | ROC-AUC |  PR-AUC | AP@n |
 |:----------:|:----------:|:----------:|:----------:|
 | MSTE | 99.59 |  99.48 | 99.37 |
 
