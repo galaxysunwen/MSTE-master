@@ -10,7 +10,7 @@ from embedding import MSTE
 from kgetools import KgDataset
 import sys
 sys.path.append("..")
-from kgetools.metrics.ranking import precision_at_k, average_precision, Recall
+from kgetools.metrics.ranking import precision_at_k, average_precision
 from kgetools.metrics.classification import auc_pr, auc_roc
 
 
