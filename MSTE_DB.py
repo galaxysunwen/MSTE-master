@@ -24,7 +24,7 @@ def main():
 
     print("Importing dataset files ... ")
     benchmark_train_fd = open(os.path.join(kg_dp_path, "train.txt"), "rt")
-    benchmark_valid_fd = open(os.path.join(kg_dp_path, "vaild.txt"), "rt")
+    benchmark_valid_fd = open(os.path.join(kg_dp_path, "valid.txt"), "rt")
     benchmark_test_fd = open(os.path.join(kg_dp_path, "test.txt"), "rt")
 
     benchmark_train = np.array([l.strip().split() for l in benchmark_train_fd.readlines()])
